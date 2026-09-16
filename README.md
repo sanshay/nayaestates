@@ -19,3 +19,8 @@ Responsive multi-page static website for Naya Estates, positioned as a trust-bas
 Upload all files in this directory to the same public web folder. The site is compatible with GitHub Pages, Netlify, Vercel, Cloudflare Pages and ordinary cPanel hosting.
 
 The current contact email is `info@nayaestates.com` and can be replaced in the HTML and `script.js`.
+
+
+## Visual System
+- Typography: Inter for body copy and IBM Plex Sans for headings and brand elements.
+- Palette: deep navy with corporate blue accents on cool off-white surfaces.
